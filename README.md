@@ -12,6 +12,7 @@ let is a keyword used to declare a variable in JavaScript which is block-scoped,
 const is a keyword used to declare a variable in JavaScript which is block-scoped, cannot be re-declared or re-assigned, and must be initialized at the time of declaration.
 
 Data Types
+
 🟢 Primitive Data Types
 1. String
 
